@@ -1,5 +1,5 @@
-#ifndef TRIGINO_H
-#define TRIGIN_H
+#ifndef TRIGONO_H
+#define TRIGONO_H
 
 double sine(double angle);
 double cosine(double angle); 
